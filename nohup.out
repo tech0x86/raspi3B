@@ -1,0 +1,106 @@
+main.py:48: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(ledPin,GPIO.OUT) #led
+main.py:19: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.mPin, GPIO.OUT)
+2021-01-04 08:29:13.337077
+2021-01-04 10:52:11.254166
+2021-01-04 10:54:03.372017
+2021-01-04 10:55:20.454826
+2021-01-04 10:57:19.576753
+2021-01-04 11:00:23.771075
+2021-01-04 11:05:39.100208
+2021-01-04 11:05:48.110366
+2021-01-04 11:10:00.373049
+2021-01-04 11:12:16.518028
+2021-01-04 11:12:52.556993
+2021-01-04 11:14:17.645575
+2021-01-04 11:15:04.695101
+2021-01-04 11:20:19.028967
+2021-01-04 11:20:44.056193
+2021-01-04 11:21:01.074659
+2021-01-04 11:21:27.102195
+2021-01-04 11:29:44.619703
+
+Ctl+C
+Traceback (most recent call last):
+  File "main.py", line 91, in <module>
+    ServoPhone.Cleanup(pos=phoneInitPos)
+  File "main.py", line 33, in Cleanup
+    time.sleep(1)
+KeyboardInterrupt
+main.py:48: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(ledPin,GPIO.OUT) #led
+main.py:19: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.mPin, GPIO.OUT)
+2021-01-04 11:32:48.719741
+2021-01-04 11:33:24.758892
+2021-01-04 11:33:33.769028
+
+Ctl+C
+
+exit program
+
+Ctl+C
+
+exit program
+main.py:51: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(ledPin,GPIO.OUT) #led
+main.py:52: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(led2Pin,GPIO.OUT) #led
+main.py:19: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.mPin, GPIO.OUT)
+
+Ctl+C
+
+ exit program
+2021-01-11 16:28:24.906108
+
+Ctl+C
+
+ exit program
+2021-01-11 16:31:41.694807
+2021-01-11 16:33:56.838484
+
+Ctl+C
+
+ exit program
+2021-01-11 16:36:44.442838
+2021-01-11 16:37:17.478470
+
+Ctl+C
+
+ exit program
+  File "main.py", line 84
+    else
+       ^
+SyntaxError: invalid syntax
+  File "main.py", line 84
+    else
+       ^
+SyntaxError: invalid syntax
+main.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(ledPin,GPIO.OUT) #led
+main.py:61: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(led2Pin,GPIO.OUT) #led +motor
+main.py:19: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.mPin, GPIO.OUT)
+
+Ctl+C
+
+ exit program
+
+Ctl+C
+
+ exit program
+  File "<stdin>", line 1
+    
+    ^
+SyntaxError: I/O error while reading
+/var/samba/mac/main.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(ledPin,GPIO.OUT) #led
+/var/samba/mac/main.py:61: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(led2Pin,GPIO.OUT) #led +motor
+/var/samba/mac/main.py:19: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(self.mPin, GPIO.OUT)
+python: can't open file 'main.py': [Errno 2] No such file or directory
+python: can't open file 'main.py': [Errno 2] No such file or directory
